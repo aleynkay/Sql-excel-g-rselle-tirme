@@ -1,4 +1,5 @@
-# SQL - excel gorsellestirme
+# NORTHWIND
+## SQL - excel gorsellestirme
 
 Bu proje, Northwind SQL veritabanı kullanılarak gerçekleştirilen bir dizi analiz ve görselleştirmeyi içermektedir. 
 Analizler, veritabanındaki farklı veri kümelerini inceleyerek iş süreçleri, satış performansı ve müşteri davranışları hakkında derinlemesine bilgi sağlamayı amaçlamaktadır.
