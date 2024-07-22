@@ -4,7 +4,7 @@
 Bu proje, Northwind SQL veritabanı kullanılarak gerçekleştirilen bir dizi analiz ve görselleştirmeyi içermektedir. 
 Analizler, veritabanındaki farklı veri kümelerini inceleyerek iş süreçleri, satış performansı ve müşteri davranışları hakkında derinlemesine bilgi sağlamayı amaçlamaktadır.
 
-### En Çok Sipariş Veren Müşteriler
+#### En Çok Sipariş Veren Müşteriler
 Bu analiz, en çok sipariş veren müşterileri listelemektedir. Her müşterinin kimlik numarası (CustomerID), adı (ContactName) ve verdiği sipariş sayısı (order count) bu sorgu ile elde edilir.
  
 ### En Çok Sipariş Veren Müşteriler
