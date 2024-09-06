@@ -1,4 +1,4 @@
---En çok siparis veren  müsterileri listele. namede gelsin
+--En çok siparis veren  müsterileri listele.
 
 select C.CustomerID,C.ContactName, count(OrderID) as [order count]
 from Orders O join Customers C on O.CustomerID = C.CustomerID
